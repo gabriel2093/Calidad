@@ -3,5 +3,5 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <h3>Your application description page.</h3>
-    <p>mamon esteban.</p>
+    <p>Aplicación de registro de invitados.</p>
 </asp:Content>
